@@ -1,0 +1,15 @@
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/bin/Debug/net8.0/Trebuchet
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/bin/Debug/net8.0/calibration.txt
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/bin/Debug/net8.0/Trebuchet.deps.json
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/bin/Debug/net8.0/Trebuchet.runtimeconfig.json
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/bin/Debug/net8.0/Trebuchet.dll
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/bin/Debug/net8.0/Trebuchet.pdb
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/obj/Debug/net8.0/Trebuchet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/obj/Debug/net8.0/Trebuchet.AssemblyInfoInputs.cache
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/obj/Debug/net8.0/Trebuchet.AssemblyInfo.cs
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/obj/Debug/net8.0/Trebuchet.csproj.CoreCompileInputs.cache
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/obj/Debug/net8.0/Trebuchet.dll
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/obj/Debug/net8.0/refint/Trebuchet.dll
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/obj/Debug/net8.0/Trebuchet.pdb
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/obj/Debug/net8.0/Trebuchet.genruntimeconfig.cache
+/Users/themacattack/Desktop/BTGTESTS/Trebuchet/obj/Debug/net8.0/ref/Trebuchet.dll
